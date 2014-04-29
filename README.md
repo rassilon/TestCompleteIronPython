@@ -1,4 +1,4 @@
-TestComplateIronPython
+TestCompleteIronPython
 ======================
 
 TestComplete IronPython Sample
